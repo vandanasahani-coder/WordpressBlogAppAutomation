@@ -46,9 +46,12 @@ All the details which change as per the environment and authorization such as UR
     - 'USER_EMAIL` is given which is already existing email for wordpress you can give another email as well in
     `assignment-maven-selenium-webdiver-project/src/main/java/variable/wordpress/UserVariable.java` 
     - Note: please provide the email which exist in database. 
+    
+Project is ready to run. 
 
+GitHub URL - https:/https://github.com/vandanasahani-coder/WordpressBlogAppAutomation/tree/master/assignment-maven-selenium-webdiver-project2
 	
-Project is ready to run. Execute following commands and enjoy the automatic web-driver test.
+Execute following commands and enjoy the automatic web-driver test.
 - Go to project path in terminal. For example: C:\Users\User-Name\eclipse-workspace\assignment-maven-selenium-webdiver-project>
 - Run `mvn clean`
 - Run `mvn compile`
