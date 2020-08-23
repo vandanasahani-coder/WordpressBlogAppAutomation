@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34257" started-at="2020-08-23T16:13:44 IST" finished-at="2020-08-23T16:14:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34257" started-at="2020-08-23T16:13:44 IST" finished-at="2020-08-23T16:14:19 IST">
+      <class name="testcases.Wordpress.LoginToWordpress">
+        <test-method status="PASS" signature="accountLogin()[pri:0, instance:testcases.Wordpress.LoginToWordpress@59e5ddf]" name="accountLogin" duration-ms="34193" started-at="2020-08-23T16:13:44 IST" finished-at="2020-08-23T16:14:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountLogin -->
+      </class> <!-- testcases.Wordpress.LoginToWordpress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
