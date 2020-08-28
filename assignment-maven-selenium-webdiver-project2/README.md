@@ -30,6 +30,10 @@ All the details which change as per the environment and authorization such as UR
 
 **Jenkins:** By using Jenkins CI (Continuous Integration) Tool, we execute test cases. 
 
+# About the project #
+
+- this project is to automate log-in and log-out functionality on blog application WORDPRESS.
+
 # How to run the Test #
 
  
