@@ -35,10 +35,7 @@ All the details which change as per the environment and authorization such as UR
 - this project is to automate log-in and log-out functionality on blog application WORDPRESS.
 
 # How to run the Test #
-
  
-
-
 **Note: Configure web-driver path and test email address.**
 	
 
