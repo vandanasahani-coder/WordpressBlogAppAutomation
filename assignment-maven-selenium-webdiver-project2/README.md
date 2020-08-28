@@ -38,7 +38,6 @@ All the details which change as per the environment and authorization such as UR
  
 **Note: Configure web-driver path and test email address.**
 	
-
 - Configure webdriver.
     - I used ChromeDriver but you can choose other webdriver eg. Mozilla GeckoDriver 
     - I have kept the Chrome Driver in project path itself inside Driver's folder.
